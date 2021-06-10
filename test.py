@@ -21,4 +21,5 @@ for article in soup.find_all('article'):
     print(yt_link)
 
     print()
+    print()
     
